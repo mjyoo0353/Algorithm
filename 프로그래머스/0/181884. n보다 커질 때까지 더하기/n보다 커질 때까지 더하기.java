@@ -1,12 +1,14 @@
 class Solution {
     public int solution(int[] numbers, int n) {
-        int sum = 0;
+        int answer = 0;
         
         for(int i = 0; i < numbers.length; i++){
-            if(sum <= n){
-                sum += numbers[i];
+            answer += numbers[i];
+            
+            if(answer > n){
+                break;
             }
         }
-        return sum;
+        return answer;
     }
 }
