@@ -6,8 +6,6 @@ class Solution {
             mul *= num;
             sum += num;
         }
-        
-        if(mul < (sum * sum)) return 1;
-        else return 0;
+        return mul < (sum * sum) ? 1 : 0;
     }
 }
