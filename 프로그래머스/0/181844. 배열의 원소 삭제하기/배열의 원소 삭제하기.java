@@ -11,7 +11,6 @@ class Solution {
         for(int num : delete_list){
             answer.remove(Integer.valueOf(num));
         }
-        
         return answer;
     }
 }
