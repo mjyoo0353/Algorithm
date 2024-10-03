@@ -6,17 +6,14 @@ public class Main {
         Scanner in = new Scanner(System.in);
         int N = in.nextInt();
         int X = in.nextInt();
-        int[] arr = new int[N];
+        StringBuilder sb = new StringBuilder();
         
         for(int i = 0; i < N; i++){
-            arr[i] = in.nextInt();
-        }
-        in.close();
-        
-        for(int i = 0; i < N; i++){
-            if(arr[i] < X){
-                System.out.print(arr[i] + " ");
+            int v = in.nextInt();
+            if(v < X){
+                sb.append(v).append(" ");
             }
         }
+        System.out.println(sb);
     }
 }
