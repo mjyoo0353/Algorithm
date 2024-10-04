@@ -7,6 +7,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mjyoo0353/Algorithm/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mjyoo0353/Algorithm/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/mjyoo0353/Algorithm/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
@@ -30,4 +31,8 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mjyoo0353/Algorithm/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/mjyoo0353/Algorithm/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
