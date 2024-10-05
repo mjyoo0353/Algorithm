@@ -9,12 +9,14 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0001-two-sum](https://github.com/mjyoo0353/Algorithm/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/mjyoo0353/Algorithm/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/mjyoo0353/Algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mjyoo0353/Algorithm/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mjyoo0353/Algorithm/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mjyoo0353/Algorithm/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mjyoo0353/Algorithm/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
@@ -29,6 +31,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/mjyoo0353/Algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,5 +43,10 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mjyoo0353/Algorithm/tree/master/0217-contains-duplicate) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
