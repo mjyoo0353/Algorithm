@@ -11,9 +11,10 @@ public class Main {
         String answer = "";
         
         for(int i = 0; i < n; i++){
-            String[] input = br.readLine().split(" ");
-            int cnt = Integer.parseInt(input[1]);
-            map.put(input[0], map.getOrDefault(input[0], 0) + cnt);
+            StringTokenizer st = new StringTokenizer(br.readLine(), " ");
+            String key = st.nextToken();
+            int cnt = Integer.parseInt(st.nextToken());
+            map.put(key, map.getOrDefault(key, 0) + cnt);
         }
         
         if(map.containsValue(5)){
