@@ -4,6 +4,8 @@ import java.io.*;
 public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
+        
         int n = Integer.parseInt(br.readLine());
         Map<String, Integer> map = new HashMap<>();
         String answer = "";
@@ -19,6 +21,8 @@ public class Main {
         } else {
             answer=  "NO";
         }
-        System.out.println(answer);
+        bw.write(answer);
+        bw.flush();
+        bw.close();
     }
 }
