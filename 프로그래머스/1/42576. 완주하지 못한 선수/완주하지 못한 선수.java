@@ -14,7 +14,7 @@ class Solution {
         }
         
         for(String key : map.keySet()){
-            if(map.get(key) != 0){
+            if(map.get(key) > 0){
                 answer = key;
             }
         }
