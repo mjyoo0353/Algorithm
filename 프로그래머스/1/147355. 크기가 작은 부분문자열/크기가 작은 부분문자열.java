@@ -2,16 +2,14 @@ import java.util.*;
 
 class Solution {
     public int solution(String t, String p) {
-        int tLength = t.length();
-        int pLength = p.length();
-        int answer = 0;
+        int count = 0;
         
-        for(int i = 0; i <= tLength - pLength; i++){
-            long temp = Long.parseLong(t.substring(i, pLength + i));
-            if(temp <= Long.parseLong(p)){
-                answer++;
+        for(int i = 0; i <= t.length() - p.length(); i++){
+            Long temp = Long.parseLong(t.substring(i, p.length() + i));
+            if (Long.parseLong(p) >= temp) {
+                count++;
             }
         }
-        return answer;
+        return count;
     }
 }
