@@ -10,10 +10,8 @@ public class Main {
         int m = Integer.parseInt(st.nextToken());
 
         for(int i = 0; i < n; i++){
-            String input = br.readLine();
-            StringBuilder sb = new StringBuilder(input);
-            sb.reverse();
-            System.out.println(sb.toString());
+            StringBuilder sb = new StringBuilder(br.readLine());
+            System.out.println(sb.reverse());
         }
     }
 }
