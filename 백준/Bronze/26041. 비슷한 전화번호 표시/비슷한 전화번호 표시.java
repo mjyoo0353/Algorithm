@@ -11,9 +11,7 @@ public class Main {
         
         while(st.hasMoreTokens()) {
             String a = st.nextToken();
-            if(a.equals(b)){
-                continue;
-            }else if(a.length() > b.length() && a.substring(0, b.length()).equals(b)){
+            if(!a.equals(b) && a.startsWith(b)){
                 count++;
             }
         }
