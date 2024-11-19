@@ -11,6 +11,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | [0053-maximum-subarray](https://github.com/mjyoo0353/Algorithm/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mjyoo0353/Algorithm/tree/master/0217-contains-duplicate) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/mjyoo0353/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mjyoo0353/Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 | ------- |
 | [0169-majority-element](https://github.com/mjyoo0353/Algorithm/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mjyoo0353/Algorithm/tree/master/0217-contains-duplicate) |
+| [2585-delete-greatest-value-in-each-row](https://github.com/mjyoo0353/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 ## Counting
 |  |
 | ------- |
@@ -53,9 +55,15 @@ This is an auto push repository for Baekjoon Online Judge created with [Baekjoon
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/mjyoo0353/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mjyoo0353/Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
 ## Simulation
 |  |
 | ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/mjyoo0353/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/mjyoo0353/Algorithm/tree/master/2692-take-gifts-from-the-richest-pile) |
+## Matrix
+|  |
+| ------- |
+| [2585-delete-greatest-value-in-each-row](https://github.com/mjyoo0353/Algorithm/tree/master/2585-delete-greatest-value-in-each-row) |
 <!---LeetCode Topics End-->
