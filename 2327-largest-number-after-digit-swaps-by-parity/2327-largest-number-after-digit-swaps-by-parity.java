@@ -1,9 +1,10 @@
 class Solution {
     public int largestInteger(int num) {
         
-        List<Integer> even = new ArrayList<>();
-        List<Integer> odd = new ArrayList<>();
-        String strNum = String.valueOf(num);
+        PriorityQueue<Integer> even = new PriorityQueue<>(Collections.reverseOrder());
+        PriorityQueue<Integer> odd = new PriorityQueue<>(Collections.reverseOrder());
+
+        String strNum = "" + num;
 
         for(char s : strNum.toCharArray()){
             int n = Integer.parseInt(String.valueOf(s));
@@ -14,19 +15,13 @@ class Solution {
             }
         }
 
-        Collections.sort(even, Collections.reverseOrder());
-        Collections.sort(odd, Collections.reverseOrder());
-
         String answer = "";
-        int evenCnt = 0, oddCnt = 0;
         for(int i = 0; i < strNum.length(); i++){
             int n = Integer.parseInt(String.valueOf(strNum.charAt(i)));
             if(n % 2 == 0){
-                answer += even.get(evenCnt);
-                evenCnt++;
+                answer += even.poll();
             }else {
-                answer += odd.get(oddCnt);
-                oddCnt++;
+                answer += odd.poll();
             }
         }
         return Integer.parseInt(answer);
