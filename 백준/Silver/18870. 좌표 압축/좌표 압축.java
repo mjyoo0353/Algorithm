@@ -11,10 +11,9 @@ public class Main {
         int[] sortedArr = new int[N];
         
         for (int i = 0; i < N; i++) {
-            int input = Integer.parseInt(st.nextToken());
-            arr[i] = input;
-            sortedArr[i] = input;
+            arr[i] = Integer.parseInt(st.nextToken());
         }
+        sortedArr = arr.clone();
         Arrays.sort(sortedArr);
         
         Map<Integer, Integer> map = new HashMap<>();
