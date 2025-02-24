@@ -9,6 +9,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mjyoo0353/Algorithm/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/mjyoo0353/Algorithm/tree/master/0242-valid-anagram) |
 | [0506-relative-ranks](https://github.com/mjyoo0353/Algorithm/tree/master/0506-relative-ranks) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/mjyoo0353/Algorithm/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 ## Heap (Priority Queue)
@@ -25,8 +26,10 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mjyoo0353/Algorithm/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/mjyoo0353/Algorithm/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/mjyoo0353/Algorithm/tree/master/0049-group-anagrams) |
+| [0242-valid-anagram](https://github.com/mjyoo0353/Algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
